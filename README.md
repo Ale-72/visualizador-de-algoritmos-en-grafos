@@ -68,6 +68,10 @@ Sigue estos pasos para ejecutar el proyecto en tu máquina local.
     python main.py
     ```
 
+## 📥 Descargas
+
+Puedes descargar la última versión ejecutable para Windows directamente desde la sección de **[Releases](https://github.com/Ale-72/visualizador-de-algoritmos-en-grafos/releases/latest)**.
+
 ## 🕹️ Modo de Uso
 
 1.  **Panel de Botones (Superior):** Utiliza los botones para cambiar entre modos: `Añadir Nodo`, `Añadir Arista`, `Mover Nodo`, etc.
