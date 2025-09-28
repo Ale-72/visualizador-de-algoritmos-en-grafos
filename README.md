@@ -54,28 +54,16 @@ Sigue estos pasos para ejecutar el proyecto en tu máquina local.
 
 1.  **Clona el repositorio:**
     ```bash
-    git clone [https://github.com/TU_USUARIO/graph-algorithm-visualizer.git](https://github.com/TU_USUARIO/graph-algorithm-visualizer.git)
-    cd graph-algorithm-visualizer
-    ```
-    2.  **Crea y activa un entorno virtual (muy recomendado):**
-    ```bash
-    # Crear el entorno
-    python -m venv venv
-
-    # Activarlo (en Windows)
-    venv\Scripts\activate
-
-    # Activarlo (en macOS/Linux)
-    source venv/bin/activate
+    git clone https://github.com/Ale-72/visualizador-de-algoritmos-en-grafos.git
+    cd visualizador-de-algoritmos-en-grafos
     ```
 
-3.  **Instala las dependencias:**
-    El archivo `requirements.txt` contiene todo lo necesario.
+2.  **Instala las dependencias:**
     ```bash
     pip install -r requirements.txt
     ```
 
-4.  **¡Ejecuta la aplicación!**
+3.  **Ejecuta la aplicación**
     ```bash
     python main.py
     ```
